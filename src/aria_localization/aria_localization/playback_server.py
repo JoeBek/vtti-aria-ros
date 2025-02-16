@@ -1,7 +1,5 @@
 import rclpy
 from rclpy.node import Node
-from std_msgs.msg import String
-from std_msgs.msg import Int
 
 from std_msgs.msg import Float32MultiArray, Float32
 from geometry_msgs.msg import Quaternion
@@ -81,3 +79,6 @@ class Playback_Node(Node):
 
 
 
+ 
+ def main(args=None):
+    rclpy.init
