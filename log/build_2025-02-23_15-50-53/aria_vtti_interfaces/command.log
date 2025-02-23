@@ -1,0 +1,6 @@
+Invoking command in '/home/joe/vt/vtti/aria_ros_ws/build/aria_vtti_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/joe/vt/vtti/aria_ros_ws/src/aria_vtti_interfaces -DCMAKE_INSTALL_PREFIX=/home/joe/vt/vtti/aria_ros_ws/install/aria_vtti_interfaces
+Invoked command in '/home/joe/vt/vtti/aria_ros_ws/build/aria_vtti_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/joe/vt/vtti/aria_ros_ws/src/aria_vtti_interfaces -DCMAKE_INSTALL_PREFIX=/home/joe/vt/vtti/aria_ros_ws/install/aria_vtti_interfaces
+Invoking command in '/home/joe/vt/vtti/aria_ros_ws/build/aria_vtti_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/joe/vt/vtti/aria_ros_ws/build/aria_vtti_interfaces -- -j8 -l8
+Invoked command in '/home/joe/vt/vtti/aria_ros_ws/build/aria_vtti_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/joe/vt/vtti/aria_ros_ws/build/aria_vtti_interfaces -- -j8 -l8
+Invoking command in '/home/joe/vt/vtti/aria_ros_ws/build/aria_vtti_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/joe/vt/vtti/aria_ros_ws/build/aria_vtti_interfaces
+Invoked command in '/home/joe/vt/vtti/aria_ros_ws/build/aria_vtti_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/joe/vt/vtti/aria_ros_ws/build/aria_vtti_interfaces

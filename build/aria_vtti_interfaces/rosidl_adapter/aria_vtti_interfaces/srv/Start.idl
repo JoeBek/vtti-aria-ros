@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from aria_vtti_interfaces/srv/Start.srv
+// generated code does not contain a copyright notice
+
+
+module aria_vtti_interfaces {
+  module srv {
+    struct Start_Request {
+      int32 optval;
+    };
+    struct Start_Response {
+      boolean success;
+    };
+  };
+};

@@ -1,0 +1,4 @@
+source;share/aria_vtti_interfaces/local_setup.bash
+source;share/aria_vtti_interfaces/local_setup.dsv
+source;share/aria_vtti_interfaces/local_setup.sh
+source;share/aria_vtti_interfaces/local_setup.zsh

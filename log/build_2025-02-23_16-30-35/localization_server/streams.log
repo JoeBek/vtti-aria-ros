@@ -1,0 +1,20 @@
+[0.558s] Invoking command in '/home/joe/vt/vtti/aria_ros_ws/src/localization_server': PYTHONPATH=/home/joe/vt/vtti/aria_ros_ws/build/localization_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/joe/vt/vtti/aria_ros_ws/install/localization_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/localization_server build --build-base /home/joe/vt/vtti/aria_ros_ws/build/localization_server/build install --record /home/joe/vt/vtti/aria_ros_ws/build/localization_server/install.log --single-version-externally-managed install_data
+[0.776s] running egg_info
+[0.776s] writing ../../build/localization_server/localization_server.egg-info/PKG-INFO
+[0.777s] writing dependency_links to ../../build/localization_server/localization_server.egg-info/dependency_links.txt
+[0.777s] writing entry points to ../../build/localization_server/localization_server.egg-info/entry_points.txt
+[0.777s] writing requirements to ../../build/localization_server/localization_server.egg-info/requires.txt
+[0.777s] writing top-level names to ../../build/localization_server/localization_server.egg-info/top_level.txt
+[0.779s] reading manifest file '../../build/localization_server/localization_server.egg-info/SOURCES.txt'
+[0.780s] writing manifest file '../../build/localization_server/localization_server.egg-info/SOURCES.txt'
+[0.780s] running build
+[0.780s] running build_py
+[0.780s] running install
+[0.780s] running install_lib
+[0.781s] running install_data
+[0.781s] running install_egg_info
+[0.782s] removing '/home/joe/vt/vtti/aria_ros_ws/install/localization_server/lib/python3.10/site-packages/localization_server-0.0.0-py3.10.egg-info' (and everything under it)
+[0.783s] Copying ../../build/localization_server/localization_server.egg-info to /home/joe/vt/vtti/aria_ros_ws/install/localization_server/lib/python3.10/site-packages/localization_server-0.0.0-py3.10.egg-info
+[0.783s] running install_scripts
+[0.799s] writing list of installed files to '/home/joe/vt/vtti/aria_ros_ws/build/localization_server/install.log'
+[0.986s] Invoked command in '/home/joe/vt/vtti/aria_ros_ws/src/localization_server' returned '0': PYTHONPATH=/home/joe/vt/vtti/aria_ros_ws/build/localization_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/joe/vt/vtti/aria_ros_ws/install/localization_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/localization_server build --build-base /home/joe/vt/vtti/aria_ros_ws/build/localization_server/build install --record /home/joe/vt/vtti/aria_ros_ws/build/localization_server/install.log --single-version-externally-managed install_data

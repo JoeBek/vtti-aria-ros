@@ -1,0 +1,3 @@
+[console_scripts]
+playback_server = aria_localization.playback_server:main
+
