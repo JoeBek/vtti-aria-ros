@@ -6,7 +6,7 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/gps_plotting.py",
-            "args": ["Vtti_office_obstacles.vrs"],
+            "args": ["Static_test_2.vrs"],
             "console": "integratedTerminal"
         }
     ]
