@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/aria_localization/aria_localization.egg-info/PKG-INFO
+writing dependency_links to ../../build/aria_localization/aria_localization.egg-info/dependency_links.txt
+writing entry points to ../../build/aria_localization/aria_localization.egg-info/entry_points.txt
+writing requirements to ../../build/aria_localization/aria_localization.egg-info/requires.txt
+writing top-level names to ../../build/aria_localization/aria_localization.egg-info/top_level.txt
+reading manifest file '../../build/aria_localization/aria_localization.egg-info/SOURCES.txt'
+writing manifest file '../../build/aria_localization/aria_localization.egg-info/SOURCES.txt'
+running build
+running build_py
+copying aria_localization/playback_server.py -> /home/joe/vt/vtti/aria_ros_ws/build/aria_localization/build/lib/aria_localization
+running install
+running install_lib
+copying /home/joe/vt/vtti/aria_ros_ws/build/aria_localization/build/lib/aria_localization/playback_server.py -> /home/joe/vt/vtti/aria_ros_ws/install/aria_localization/lib/python3.10/site-packages/aria_localization
+byte-compiling /home/joe/vt/vtti/aria_ros_ws/install/aria_localization/lib/python3.10/site-packages/aria_localization/playback_server.py to playback_server.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/joe/vt/vtti/aria_ros_ws/install/aria_localization/lib/python3.10/site-packages/aria_localization-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/aria_localization/aria_localization.egg-info to /home/joe/vt/vtti/aria_ros_ws/install/aria_localization/lib/python3.10/site-packages/aria_localization-0.0.0-py3.10.egg-info
+running install_scripts
+Installing playback_server script to /home/joe/vt/vtti/aria_ros_ws/install/aria_localization/lib/aria_localization
+writing list of installed files to '/home/joe/vt/vtti/aria_ros_ws/build/aria_localization/install.log'

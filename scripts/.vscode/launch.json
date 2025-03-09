@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: gps_plotting",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/gps_plotting.py",
+            "args": ["Vtti_office_obstacles.vrs"],
+            "console": "integratedTerminal"
+        }
+    ]
+}

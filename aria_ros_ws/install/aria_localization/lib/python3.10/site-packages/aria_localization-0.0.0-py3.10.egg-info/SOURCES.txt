@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/aria_localization/aria_localization.egg-info/PKG-INFO
+../../build/aria_localization/aria_localization.egg-info/SOURCES.txt
+../../build/aria_localization/aria_localization.egg-info/dependency_links.txt
+../../build/aria_localization/aria_localization.egg-info/entry_points.txt
+../../build/aria_localization/aria_localization.egg-info/requires.txt
+../../build/aria_localization/aria_localization.egg-info/top_level.txt
+../../build/aria_localization/aria_localization.egg-info/zip-safe
+aria_localization/AriaIO.py
+aria_localization/__init__.py
+aria_localization/playback_server.py
+resource/aria_localization
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
