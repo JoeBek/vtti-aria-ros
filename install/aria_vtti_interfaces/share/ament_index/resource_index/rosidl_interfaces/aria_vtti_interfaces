@@ -1,4 +1,0 @@
-srv/Start.idl
-srv/Start.srv
-srv/Start_Request.msg
-srv/Start_Response.msg

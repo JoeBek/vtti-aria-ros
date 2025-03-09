@@ -1,6 +1,0 @@
-{
-  "package_name": "aria_vtti_interfaces",
-  "non_idl_tuples": [
-    "/home/joe/vt/vtti/aria_ros_ws/src/aria_vtti_interfaces:srv/Start.srv"
-  ]
-}

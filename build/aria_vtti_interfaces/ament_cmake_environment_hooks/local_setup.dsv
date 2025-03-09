@@ -1,4 +1,0 @@
-source;share/aria_vtti_interfaces/environment/ament_prefix_path.sh
-source;share/aria_vtti_interfaces/environment/library_path.sh
-source;share/aria_vtti_interfaces/environment/path.sh
-source;share/aria_vtti_interfaces/environment/pythonpath.sh
