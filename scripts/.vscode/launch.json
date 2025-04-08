@@ -8,6 +8,14 @@
             "program": "${workspaceFolder}/gps_plotting.py",
             "args": ["Static_test_2.vrs"],
             "console": "integratedTerminal"
+        },
+        {
+            "name": "imu to csv debug",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/vrs_imu_to_csv.py",
+            "args": ["Office_building_1.vrs"],
+            "console": "integratedTerminal"
         }
     ]
 }
